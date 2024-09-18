@@ -1,1 +1,4 @@
-# LTPProgramas acadêmicos escritos na Linguagem C durante as aulas em laboratório da disciplina de LTP (Linguagem Técnica de Programação) do curso de graduação híbrida de ADS (Análise e Desenvolvimento de Sistemas) da UNIP.
+# LTPP
+Códigos em C da disciplina de Linguagem Técnica para Programação
+[00:28]
+Programas acadêmicos escritos na Linguagem C durante as aulas em laboratório da disciplina de LTP (Linguagem Técnica de Programação) do curso de graduação híbrida de ADS (Análise e Desenvolvimento de Sistemas) da UNIP.
