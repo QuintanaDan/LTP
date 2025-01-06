@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724887574 source:/home/quintana/Documentos/Exercicios LTP/Aula28-08/main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727653098 source:/home/quintana/Documentos/Exercicios LTP/Desafio1-13/main.c
+	<stdio.h>
+	<stdlib.h>
+

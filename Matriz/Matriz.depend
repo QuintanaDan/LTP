@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724803164 source:/home/quintana/Documentos/Exercicios LTP/Matriz/main.c
+	<stdio.h>
+	<stdlib.h>
+
